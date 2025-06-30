@@ -69,7 +69,10 @@ return {
           })
       end,
       opts = {}
-  }
+  },
+--  {
+--     'chistoomey/vim-tmux-navigator',
+--  }
 --  {
 --  	"nvim-treesitter/nvim-treesitter",
 --   	opts = {

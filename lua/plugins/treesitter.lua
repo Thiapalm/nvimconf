@@ -12,6 +12,9 @@ return {
             ensure_installed = {
                 "lua",
                 "rust",
+                "c",
+                "cpp",
+                "make",
             },
             auto_install = false,
         })
